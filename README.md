@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfinardians
 - 👀 I’m interested in front-end with JavaScript language programing
-- 🌱 I’m currently learning PostgreSQl 
+- 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on anything possible haha, but something arround front-end & blogging in HTML sounds cool. 
 - 📫 How to reach me hit me up through alfinardiansy@gmail.com 
 
